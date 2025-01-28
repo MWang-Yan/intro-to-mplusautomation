@@ -1,13 +1,13 @@
-Mplus VERSION 8.6
+Mplus VERSION 8.7 (Mac)
 MUTHEN & MUTHEN
-01/10/2022   9:30 AM
+01/27/2025   4:58 PM
 
 INPUT INSTRUCTIONS
 
   TITLE:
   PRACTICE 01 - Explore TYPE = BASIC;
   DATA:
-  FILE = "C:/Users/Dina Arch/Box/TA - ED 216B/Labs/part2_rstudio/basic.dat";
+  FILE = "/Users/minghuiwang/Github/intro-to-mplusautomation/part2_rstudio/basic.dat";
 
   VARIABLE:
   NAMES = item1 item2 item3 item4 item5 item6 item7 item8 item9 female;
@@ -50,7 +50,7 @@ Maximum number of iterations for H1                           2000
 Convergence criterion for H1                             0.100D-03
 
 Input data file(s)
-  C:/Users/Dina Arch/Box/TA - ED 216B/Labs/part2_rstudio/basic.dat
+  /Users/minghuiwang/Github/intro-to-mplusautomation/part2_rstudio/basic.dat
 
 Input data format  FREE
 
@@ -222,8 +222,8 @@ UNIVARIATE SAMPLE STATISTICS
              119.000       0.217      -1.399       1.000   68.07%       1.000      1.000
 
 
-     Beginning Time:  09:30:38
-        Ending Time:  09:30:38
+     Beginning Time:  16:58:09
+        Ending Time:  16:58:09
        Elapsed Time:  00:00:00
 
 
